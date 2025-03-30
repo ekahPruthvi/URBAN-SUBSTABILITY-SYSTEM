@@ -5,7 +5,8 @@
 
 
 # To Run 
-## Get the api key fromm grok
+
+Get the api key from grok
 
 ```bash
 source  USS/bin/activate
