@@ -7,6 +7,7 @@
 # To Run 
 
 Get the api key from grok
+and create a file callled `.env` and store it in it
 
 ```bash
 source  USS/bin/activate
