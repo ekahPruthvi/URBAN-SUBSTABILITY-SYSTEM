@@ -1,6 +1,6 @@
 import requests
 import Location
-API_KEY = "28ee0285-e57c-47bd-bc0e-74a3ebb3a638"
+API_KEY = "enterkeyhere"
 
 # Location
 lat, long, city, state, country = Location.locationCoordinates()
