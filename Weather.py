@@ -1,7 +1,7 @@
 import requests
 import Location
 #from Location import locationCoordinates, gps_locator
-key = "244651ed82aa541a525c46cd5fd87a13"
+key = "enterkeyhere"
 def get_location():
     
     try:
